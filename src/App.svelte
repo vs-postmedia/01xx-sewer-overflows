@@ -40,7 +40,7 @@
 <section class="scrollyteller sticky">
     <header>
         <h1>HED</h1>
-        <p class="subhead">TK TK TK</p>
+        <p class="subhead">Litres of untreated sewage and storm water released into Metro Vancouver waterways in 2023.</p>
     </header>
     <div class="chart sticky">
         <!-- svelte-ignore a11y-missing-attribute -->
@@ -58,7 +58,6 @@
 
 <footer>
     <p class="source">Source: Municiple governments, Metro Vancouver</p>
-    <p class="note">NOTE: New Westminster doesn’t have location data for its combined sewer outfalls. Locations have been estimated by extending from the end of street name associated with each outfall to the edge of the Fraser River.</p>
     <!-- flourish logo -->
     <div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/3706064/?utm_source=embed&utm_campaign=visualisation/3706064' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 </footer>
