@@ -14,7 +14,7 @@
 
     // SET CHART HEIGH & URL HERE...
     const chartHeight = '575px';
-    const flourishStoryUrl = 'https://flo.uri.sh/story/975711/embed';
+    const flourishStoryUrl = 'https://flo.uri.sh/story/2815166/embed';
 
     // FUNCTIONS
     const updateStep = function(currentStep) {
@@ -57,10 +57,8 @@
 </ul>
 
 <footer>
-    <p class="source">Source:
-        <a href="https://www.vancouversun.com/" target="_blank">tk</a>,
-        <a href="https://www.openstreetmap.org/" target="_blank">tk</a>
-    </p>
+    <p class="source">Source: Municiple governments, Metro Vancouver</p>
+    <p class="note">NOTE: New Westminster doesn’t have location data for its combined sewer outfalls. Locations have been estimated by extending from the end of street name associated with each outfall to the edge of the Fraser River.</p>
     <!-- flourish logo -->
     <div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/3706064/?utm_source=embed&utm_campaign=visualisation/3706064' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 </footer>
