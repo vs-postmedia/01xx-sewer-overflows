@@ -40,7 +40,7 @@
 <section class="scrollyteller sticky">
     <header>
         <h1>HED</h1>
-        <p class="subhead">Litres of untreated sewage and storm water released into Metro Vancouver waterways in 2023.</p>
+        <p class="subhead">Litres of untreated sewage and storm water released into Metro Vancouver waterways in 2023 from outfalls operated by <span class="highlight blue">Metro Vancouver</span>, <span class="highlight yellow">Vancouver</span>, <span class="highlight green">Burnaby</span> and <span class="highlight purple">New West</span>.</p>
     </header>
     <div class="chart sticky">
         <!-- svelte-ignore a11y-missing-attribute -->
@@ -64,6 +64,24 @@
 
 <!-- CSS -->
 <style>
+    /* header */
+    .highlight {
+        border-radius: 3px;
+        color: #fff;
+        padding: 2px;
+    }
+    .blue {
+        background-color: #0062A3
+    }
+    .green {
+        background-color: #009775;
+    }
+    .yellow {
+        background-color: #F6B41D;
+    }
+    .purple {
+        background-color: #9b3f87;
+    }
     /* STEPS */
     section {
         position: relative;
