@@ -18,6 +18,12 @@
 	color: #FFF;
 	padding: 1px 2px;
 }
+.yellow-01 {
+	background-color: var(--yellow01);
+	border-radius: 2px;
+	color: #FFF;
+	padding: 1px 2px;
+}
 
 
 /* APP & CHART WRAPPER */
