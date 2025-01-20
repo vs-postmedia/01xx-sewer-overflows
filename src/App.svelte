@@ -21,8 +21,6 @@
         iframe = document.querySelector('#app .chart > iframe');
         iframe.src = iframe.src.replace(/#slide-.*/, '') + '#slide-' + currentStep;
     }
-
-    $: console.log(document.querySelectorAll('.step'))
     
     // conditional block to trigger step change on scroll
     $: {
@@ -48,7 +46,7 @@
 <section class="scrollyteller sticky">
     <header>
         <h1>HED</h1>
-        <p class="subhead">Litres of untreated sewage and storm water released into Metro Vancouver waterways in 2023 from combined sewer systems operated by <span class="highlight blue">Metro Vancouver</span> and the cities of <span class="highlight yellow">Vancouver</span>, <span class="highlight green">Burnaby</span> and <span class="highlight purple">New West</span>.</p>
+        <p class="subhead">Billions of litres of untreated sewage and storm water were released into Metro Vancouver waterways in 2023 from combined sewer systems operated by <span class="highlight blue">Metro Vancouver</span> and the cities of <span class="highlight yellow">Vancouver</span>, <span class="highlight green">Burnaby</span> and <span class="highlight purple">New West</span>.</p>
     </header>
     <div class="chart sticky">
         <!-- svelte-ignore a11y-missing-attribute -->
