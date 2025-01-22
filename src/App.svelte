@@ -45,7 +45,7 @@
 <!-- MARKUP -->
 <section class="scrollyteller sticky">
     <header>
-        <h1>HED</h1>
+        <h1>Pollution in Metro Vancouver’s waterways</h1>
         <p class="subhead">Billions of litres of untreated sewage and storm water were released into Metro Vancouver waterways in 2023 from combined sewer systems operated by <span class="highlight blue">Metro Vancouver</span> and the cities of <span class="highlight yellow">Vancouver</span>, <span class="highlight green">Burnaby</span> and <span class="highlight purple">New West</span>.</p>
     </header>
     <div class="chart sticky">
